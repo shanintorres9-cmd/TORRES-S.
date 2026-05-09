@@ -184,6 +184,7 @@ func end_game():
 
 Project → Project Settings → Input Map
 
+
 ui_up
 ui_down
 ui_left
